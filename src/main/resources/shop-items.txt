@@ -1,0 +1,50 @@
+Wireless Earbuds|75.00|new|20|electronics|bluetooth_5.0,water_resistant,24hr_battery
+Smartphone|300.00|sale|15|electronics|5G_enabled,128GB_storage,dual_camera
+Laptop Cooler|29.99|new|30|electronics|USB_powered,adjustable_angles,LED_lights
+Gaming Keyboard|49.99|new|25|electronics|mechanical_keys,RGB_backlight,macro_keys
+USB Microphone|85.00|sale|10|electronics|cardioid_pattern,studio_quality,desk_stand
+Mystery Novel|8.99|new|35|books|paperback,thrilling_plot,author_signed
+Fantasy Series|19.99|sale|40|books|box_set,5_books,illustrated_covers
+Science Fiction Classic|14.50|new|20|books|hardcover,anniversary_edition,foreword_by_author
+Historical Drama|18.00|sale|30|books|paperback,acclaimed_author,600_pages
+Biography of a Leader|22.00|new|15|books|hardcover,photographs,exclusive_interviews
+Yoga Mat|19.99|new|50|sport|eco_friendly,non_slip,5mm_thickness
+Basketball Hoop|250.00|sale|5|sport|in-ground,adjustable_height,pro_size
+Running Shoes|120.00|new|20|sport|lightweight,energy_returning,midsole
+Tennis Racket|89.99|refurbished|10|sport|graphite_composite,oversized_head,case_included
+Golf Clubs Set|400.00|new|5|sport|steel_shafts,full_set,custom_grips
+Noise Cancelling Headphones|220.00|new|15|electronics|over_ear,adaptive_sound,30hr_battery
+Tablet|250.00|sale|20|electronics|10_inch_display,wifi_6,32GB_storage
+E-Reader|130.00|new|25|electronics|glare_free,8GB_storage,waterproof
+Action Camera|150.00|new|10|electronics|4K_recording,wifi_enabled,waterproof_case
+Portable Speaker|60.00|sale|40|electronics|bluetooth,water_resistant,12hr_playtime
+Cookbook|24.99|new|30|books|hardcover,100_recipes,illustrated
+Self-Help Guide|15.99|sale|50|books|paperback,motivational,interactive_activities
+Thriller Collection|35.00|new|20|books|3_novel_set,paperback,award_winning_authors
+Classic Literature|12.00|sale|40|books|leather_bound,gilded_edges,ribbon_bookmark
+Modernist Poems|18.99|new|25|books|hardcover,critical_essays,annotated
+Soccer Ball|29.99|new|50|sport|official_size,durable,for_all_surfaces
+Baseball Glove|49.99|sale|20|sport|leather,padded_palm,adult_size
+Hiking Backpack|69.99|new|15|sport|lightweight,multi_pockets,hydration_compatible
+Skateboard|35.00|refurbished|25|sport|maple_deck,ABEC_7_bearings,skate_tool_included
+Exercise Bike|299.99|new|10|sport|adjustable_resistance,LCD_display,heart_rate_monitor
+Desk Lamp|45.00|new|20|electronics|LED,adjustable_arm,USB_charging_port
+Digital Camera|400.00|sale|8|electronics|DSLR,24MP,wifi_enabled
+External Hard Drive|120.00|new|15|electronics|1TB,USB_3.0,portable
+Smart Watch|199.99|new|25|electronics|fitness_tracking,GPS,water_resistant
+Streaming Stick|50.00|sale|35|electronics|4K_streaming,voice_remote,HDMI_connector
+Adventure Novel|9.99|new|45|books|paperback,fast_paced,author_awarded
+Literary Fiction|16.00|sale|40|books|hardcover,book_club_edition,discussion_guide
+Memoir|14.99|new|20|books|paperback,intimate_story,reader's_guide
+Detective Stories|22.99|sale|30|books|collection,mystery,special_edition
+Historical Biography|27.50|new|25|books|hardcover,illustrated,time_period_maps
+Cycling Helmet|79.99|new|15|sport|aerodynamic,ventilated,adjustable_straps
+Golf Balls|45.00|sale|40|sport|tour_performance,urethane_cover,sleeve_of_12
+Fitness Tracker|59.99|new|30|sport|heart_rate,sleep_monitoring,5_day_battery
+Swimming Goggles|25.99|refurbished|35|sport|anti_fog,UV_protection,silicone_seal
+Weightlifting Belt|30.00|new|20|sport|leather,supportive,buckle_closure
+Charging Dock|35.00|new|30|electronics|multi_device,fast_charge,LED_indicator
+Car GPS Navigator|250.00|sale|10|electronics|touch_screen,live_traffic,voice_commands
+Robot Vacuum|150.00|new|15|electronics|smart_navigation,app_control,auto_recharge
+Smart Thermostat|200.00|new|25|electronics|energy_saving,remote_control,voice_activated
+DVR Set Top Box|120.00|sale|35|electronics|HD_recording,streaming_capabilities,multi_room_viewing
